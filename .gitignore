@@ -1,0 +1,4 @@
+*.fasta
+Mutated/*.fasta
+Healthy
+quast_output

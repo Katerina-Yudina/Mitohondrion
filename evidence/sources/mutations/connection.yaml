@@ -1,0 +1,8 @@
+# This file was automatically generated
+name: mutations
+type: postgres
+options:
+  database: mutations
+  host: localhost
+  port: 5432
+  schema: public
